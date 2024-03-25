@@ -12,10 +12,10 @@ This workshop provides graduate students with the necessary skills for understan
 
 | Date |  Topic | Instructor | Helpers | Topics Summary
 | :--: | :--:| :--: | :--: |:--: |
-|   04/01/24  |Graph ML Part-1| Shashank |    |
-|   04/08/24  |Graph ML Part-2| Shashank |    |
-|   04/15/24  |Graph ML Part-3| Shashank |    |
-|   04/22/24  |Graph ML Part-4| Shashank |    |
-|   04/29/24  |Graph ML Part-5| Shashank |    |
+|   04/01/24  |Graph ML Part-1| Shashank |  Carlos  | Why Graph ML and basics of graph theory
+|   04/08/24  |Graph ML Part-2| Shashank |  Carlos  | Node representations: Deepwalk and node2vec
+|   04/15/24  |Graph ML Part-3| Shashank |  Carlos  | Basics of GNN - node classification
+|   04/22/24  |Graph ML Part-4| Shashank |  Carlos  | Introduction to Graph Convolutions
+|   04/29/24  |Graph ML Part-5| Shashank |  carlos  | Application of Graph Convolutions Networks
     
 ***    
