@@ -5,7 +5,7 @@ Graph &amp; Geometric Machine Learning
  
 This workshop provides graduate students with the necessary skills for understanding and applying graph machine learning techniques. Among the covered topics, you will find the fundamentals of graph theory, practical applications of graph neural networks, and advanced methods for graph-based data analysis.
 
-* Repo(<repo pending>)
+* Repo: [https://github.com/ua-datalab/GraphML](https://github.com/ua-datalab/GraphML)
 * Mondays at 2PM: Weaver Science and Engineering Library Rm 212.
 * Zoom: https://arizona.zoom.us/j/86423223879
 * Qualtrics Registration: (Pending)
